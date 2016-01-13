@@ -1,6 +1,6 @@
 # Create a Standard Storage Account
 
-Create a Standard Storage Account  - <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-create-storage-account-standard%2Fazuredeploy.json" target="_blank">
+Create a Standard Storage Account with container  - <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2stash.pros.com%2Fprojects%2FGEN%2Frepos%2Fazure-templates%2Fbrowse%2Fshared-resources%2Fhdfs%2Fstorage%2Fcreate-storage-account-standard%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
