@@ -1,0 +1,11 @@
+ {
+    "newStorageAccountName": {
+      "value": "prodgolddev"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "location": {
+      "value": "South Central US"
+    }
+}
